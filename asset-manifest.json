@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/DNS-on-polygon/static/css/main.6fc17d57.css",
+    "main.js": "/DNS-on-polygon/static/js/main.4c662fcb.js",
+    "static/media/twitter-logo.svg": "/DNS-on-polygon/static/media/twitter-logo.a8a752547c2913d8bc15e5df109748a6.svg",
+    "static/media/polygonlogo.png": "/DNS-on-polygon/static/media/polygonlogo.6cde40a9b9119621eb2b.png",
+    "index.html": "/DNS-on-polygon/index.html",
+    "main.6fc17d57.css.map": "/DNS-on-polygon/static/css/main.6fc17d57.css.map",
+    "main.4c662fcb.js.map": "/DNS-on-polygon/static/js/main.4c662fcb.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.6fc17d57.css",
+    "static/js/main.4c662fcb.js"
+  ]
+}
